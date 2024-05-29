@@ -62,3 +62,5 @@ mintNFT("Sagar", "Green", "Half slevves", "Gold Chain");
 mintNFT("Radhe", "Brown", "Hoodie", "Jogan");
 listNFTs();
 getTotalSupply();
+console.log("22BCS16693")
+  
